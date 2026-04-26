@@ -2,8 +2,8 @@ Hi, I'm Asharaf Ali.
 
 Self-taught developer focused on becoming a strong full-stack engineer.
 
-Currently strengthening my JavaScript fundamentals by building real projects.  
-Right now working on a Notes App in vanilla JavaScript before moving deeper into the MERN stack.
+Currently learning React and building projects to understand component architecture and state.
+Previously built a Notes App in vanilla JavaScript to strengthen core fundamentals.
 
 Tech focus:
 JavaScript • Node.js • Express • PostgreSQL
