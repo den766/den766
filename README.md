@@ -1,13 +1,13 @@
-# Hi, I'm Asharaf Ali.
+# Hi, I'm Asharaf Ali. 👋
 
-Self-taught developer focused on becoming a strong full-stack engineer.
+Self-taught developer focused on becoming a strong full-stack engineer through project-based learning.
 
-Currently learning React and building projects to understand state management, Context API, and application architecture.
+Currently learning **Node.js & Express** as part of a structured MERN roadmap, with the goal of eventually building the backend for my **Expense Tracker**.
 
-Built a Notes App in vanilla JavaScript, rebuilt it in React, and currently improving an Expense Tracker project while following a structured MERN roadmap.
+Previously built and improved several projects, including rebuilding a Notes App in React and continuously expanding my Expense Tracker with new features and refactoring.
 
-Tech focus: JavaScript • React • Node.js • Express • PostgreSQL
+**Tech Stack:** JavaScript • React • Node.js • Express • PostgreSQL
 
-Goal: Understand how real applications work by building, debugging, refactoring, and improving projects step by step.
+**Goal:** Build, debug, refactor, and understand how real-world applications work from frontend to backend.
 
-⭐ Check out my repositories & give a star if you like them! ⭐
+⭐ Feel free to explore my repositories and leave a star if you find them useful!
